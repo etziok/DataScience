@@ -1,5 +1,5 @@
-# DataScience
-Hello everyone, my name is Franco Kees, and I am delighted to share a little about myself with all of you. I hold a degree in Art and Digital Design from the prestigious University of Salvador. However, my journey into the fascinating world of data science has been a transformative one. Motivated by a passion for creative problem-solving, I pursued this Data Science course to leverage the power of data in the most innovative and imaginative ways.
+# Hello everyone
+My name is Franco Kees, and I am delighted to share a little about myself with all of you. I hold a degree in Art and Digital Design from the prestigious University of Salvador. However, my journey into the fascinating world of data science has been a transformative one. Motivated by a passion for creative problem-solving, I pursued this Data Science course to leverage the power of data in the most innovative and imaginative ways.
 
 With my artistic background and analytical mindset, I seek to bridge the gap between art and science by using data as a canvas to paint meaningful insights and uncover hidden patterns. Throughout my academic journey and professional experiences, I have come to appreciate how data, like a blank canvas, holds boundless potential waiting to be unlocked and transformed into valuable solutions.
 
