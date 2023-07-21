@@ -7,4 +7,3 @@ My ultimate goal is to apply the skills and knowledge gained from this Data Scie
 
 # So, let's get started!
 In this example, we will showcase my final project completed for IBM Data Science Developer course, where we will assume the role of an employee at Space X. Our task will be to determine the pricing for each launch by analyzing the existing databases.
-https://user-images.githubusercontent.com/24231101/36292898-4284c094-1292-11e8-86ce-b91a46ffe6b4.jpg
